@@ -5,9 +5,9 @@ This demo is my first foray into accelerometers.  It is also my first ever 3d gr
 
 It requries an accelerometer to make any sense, although will default to mouse input if an accelerometer is not detected.
 
-I have drawn heavily on Ethernaut's toy plane banana (Thank you Ethernaut for this) : https://github.com/DoctorWhoof/Plane-Demo
+Creating this would have been much harder without having Ethernaut's toy plane banana as a starting point (Thank you Ethernaut!) : https://github.com/DoctorWhoof/Plane-Demo
 
-I have also used anatol's Accelerometer class (Thank you anatol!) : https://github.com/anatolbogun/monkey2-utils
+I have also used anatol's Accelerometer class with a few minor tweaks (Thank you anatol!) : https://github.com/anatolbogun/monkey2-utils
 
 Request for Feedback
 --------------------
