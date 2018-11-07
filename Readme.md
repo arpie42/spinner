@@ -19,6 +19,6 @@ In particular, I want to be sure that the orientation of the device axes is the 
  - X is left-right (when viewing the screen along the Z axis and holding the device horizontally)
  - Y is up-down (ditto)
 
-Please send feedback either via email, or on the monkey2 forums.
+Please send feedback either via email, or on the monkey2 forums (http://monkeycoder.co.nz/forums/topic/request-for-testing-accelerometer/ ).
 
 Any requests or suggestions for improvements or alterations also very welcome!
