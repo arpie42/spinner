@@ -9,6 +9,11 @@ Creating this would have been much harder without having Ethernaut's toy plane b
 
 I have also used anatol's Accelerometer class with a few minor tweaks (Thank you anatol!) : https://github.com/anatolbogun/monkey2-utils
 
+How to compile
+--------------
+
+Load accelerometer.monkey2 into Ted, set the build to android or ios, press compile and cross your fingers... then use Android Studio or XCode to get it onto your device (I know nothing about XCode but may be able to help if you have trouble with Android Studio - please use the monkey Forums to discuss issues).
+
 Request for Feedback
 --------------------
 
